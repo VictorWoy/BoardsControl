@@ -1,4 +1,4 @@
-# 📌 Controle de Boards (Kanban)
+# 📌 Controle de Boards
 
 Um sistema desenvolvido em Java para gerenciar boards e cards. Permite criar, mover, bloquear, cancelar e visualizar cards dentro de um board, com suporte a múltiplas colunas e operações de gerenciamento.
 
